@@ -1,6 +1,8 @@
 ## ImgToAscii Extension
 An extension to convert image to ascii.
 
+<img src="https://github.com/jewelshkjony/ImgToAscii/raw/main/assets/cover.png"/>
+
 <img src="https://github.com/jewelshkjony/ImgToAscii/raw/main/assets/aix.png"/>
 
 ## Create
