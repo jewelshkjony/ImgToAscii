@@ -1,4 +1,4 @@
-## Img2Ascii Extension
+## ImgToAscii Extension
 An extension to convert image to ascii.
 
 <img src="https://github.com/jewelshkjony/ImgToAscii/raw/main/assets/aix.png"/>
@@ -28,7 +28,7 @@ This event will be triggered if got error while download image from url.
 <img src="https://github.com/jewelshkjony/ImgToAscii/raw/main/assets/image-to-ascii.gif"/>
 
 ## Extension specifications:
-<img src="https://github.com/jewelshkjony/ImgToAscii/raw/main/assets/download.png"/> <a href="https://github.com/jewelshkjony/ImgToAscii/raw/main/out/com.jewel.imgtoascii.aix">com.jewel.wordtospan.aix</a> (10.3 KB) \
+<img src="https://github.com/jewelshkjony/ImgToAscii/raw/main/assets/download.png"/> <a href="https://github.com/jewelshkjony/ImgToAscii/raw/main/out/com.jewel.imgtoascii.aix">com.jewel.imagetoascii.aix</a> (10.3 KB) \
 <b>Version:</b> 1.0\
 <b>Price:</b> FREE\
 <b>Last amendment:</b> 15 August 2022\
